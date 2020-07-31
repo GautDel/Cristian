@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #252525;
+  overflow: hidden;
+}
+
+#canvas {
+  border: 2px solid rgb(132, 173, 248);
+  border-radius: 1rem;
+}
